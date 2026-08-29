@@ -14,7 +14,7 @@ const techLogos = [
 
 export default function Hero() {
   return (
-    <section id="home" className="relative pt-28 sm:pt-36 pb-16 sm:pb-20 px-4 sm:px-6 max-w-7xl mx-auto z-10 selection:bg-purple-500/30">
+    <section id="home" className="relative pt-28 sm:pt-36 pb-16 sm:pb-20 px-4 sm:px-6 max-w-6xl mx-auto z-10 selection:bg-purple-500/30">
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
         
         {/* Left Text Column */}
